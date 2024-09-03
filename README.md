@@ -1,0 +1,1 @@
+Aqui voce terá acesso a todos os meus repositórios referentes aos arquivos em C da disciplina de Linguagem de Porgramação, de como eu resolvi os exercicios com o enunciado comentado no começo do código fonte, todo o conteudo está sendo colocado na integra ao decorrer do tempo e separado por listas de atividades e por enunciados de exercicios, mais detalhes dentro de cada arquivo.
