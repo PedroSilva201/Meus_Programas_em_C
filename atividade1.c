@@ -1,3 +1,5 @@
+/**⦁	Dado dois números inteiros positivos n, calcular e imprimir a sua soma.**/
+
 #include <stdio.h>
 int main(){
     int X;
