@@ -1,4 +1,4 @@
-/*Dado dois vetores, A (5 elementos) e B (8 elementos), faça um programa em C que imprima todos os
+/*09.Dado dois vetores, A (5 elementos) e B (8 elementos), faça um programa em C que imprima todos os
 elementos comuns aos dois vetores.
 Exemplo: int A[5] = {1,2,4,6,21};
 int B[8] = {2,3,6,7,9,11,15,20};*/
