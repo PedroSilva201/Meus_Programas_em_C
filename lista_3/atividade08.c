@@ -1,4 +1,4 @@
-/*Inicialize um vetor de 10 posições e em seguida leia um valor X qualquer. Seu programa devera fazer
+/*08.Inicialize um vetor de 10 posições e em seguida leia um valor X qualquer. Seu programa devera fazer
 uma busca do valor de X no vetor lido e informar a posição em que foi encontrado ou se não foi
 encontrado.
 Exemplo: int vetor[10] = {2,5,4,54,43,22,5,9,30,15};*/
