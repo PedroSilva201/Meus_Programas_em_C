@@ -1,1 +1,3 @@
 Aqui voce terá acesso a todos os meus repositórios referentes aos arquivos em C da disciplina de Linguagem de Porgramação, de como eu resolvi os exercicios com o enunciado comentado no começo do código fonte, todo o conteudo está sendo colocado na integra ao decorrer do tempo e separado por listas de atividades e por enunciados de exercicios, mais detalhes dentro de cada arquivo.
+Observações: Não há por enquanto os programas 2,3,8 e 9, pois não foi encontrado nenhum indicio em meus registros, vele lembrar que perdi arquivos antes de colocar aqui.
+Alguns porgramas podem ter soluções parcialmente corretas ou erradas de acordo com o ideial de cada atividade, para quem for utilizar e ver estes equivocos peços desculpas pelos erros, mas está um resgistro sobre a linguagem.
